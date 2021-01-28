@@ -1,0 +1,2996 @@
+fileFormatVersion: 2
+guid: 77a1ceba2df08ff4f9802f8448cdd532
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 125294379285168736
+    second: ThrowRock_0Degree0
+  - first:
+      213: -3613359734550933307
+    second: ThrowRock_0Degree1
+  - first:
+      213: 1490771503091990298
+    second: ThrowRock_0Degree2
+  - first:
+      213: -690475951149220399
+    second: ThrowRock_0Degree3
+  - first:
+      213: 3799939506955041910
+    second: ThrowRock_0Degree4
+  - first:
+      213: -8839634881096875812
+    second: ThrowRock_0Degree5
+  - first:
+      213: -5384209900915871994
+    second: ThrowRock_0Degree6
+  - first:
+      213: 7401748395019914009
+    second: ThrowRock_0Degree7
+  - first:
+      213: -3142516532792202693
+    second: ThrowRock_0Degree8
+  - first:
+      213: 2202488568224693575
+    second: ThrowRock_0Degree9
+  - first:
+      213: 7919202005492030017
+    second: ThrowRock_0Degree10
+  - first:
+      213: -5108733115139434958
+    second: ThrowRock_0Degree11
+  - first:
+      213: -4638494561063443786
+    second: ThrowRock_0Degree12
+  - first:
+      213: 6730748745650333328
+    second: ThrowRock_0Degree13
+  - first:
+      213: -3389392027220263009
+    second: ThrowRock_0Degree14
+  - first:
+      213: 6936859399058683122
+    second: ThrowRock_0Degree15
+  - first:
+      213: -5198793548196799399
+    second: ThrowRock_0Degree16
+  - first:
+      213: 8570985670001867942
+    second: ThrowRock_0Degree17
+  - first:
+      213: -4400621290209247172
+    second: ThrowRock_0Degree18
+  - first:
+      213: -2414053985684341018
+    second: ThrowRock_0Degree19
+  - first:
+      213: 8774242476898092791
+    second: ThrowRock_0Degree20
+  - first:
+      213: 1367743598213129228
+    second: ThrowRock_0Degree21
+  - first:
+      213: 1703667852898211251
+    second: ThrowRock_0Degree22
+  - first:
+      213: 85478648259967332
+    second: ThrowRock_0Degree23
+  - first:
+      213: -196421661046989187
+    second: ThrowRock_0Degree24
+  - first:
+      213: 4944746604512487379
+    second: ThrowRock_0Degree25
+  - first:
+      213: 2464865035202661927
+    second: ThrowRock_0Degree26
+  - first:
+      213: -2758879643622577795
+    second: ThrowRock_0Degree27
+  - first:
+      213: 2279069235437446468
+    second: ThrowRock_0Degree28
+  - first:
+      213: 4131272895176502086
+    second: ThrowRock_0Degree29
+  - first:
+      213: 7685619844405103713
+    second: ThrowRock_0Degree30
+  - first:
+      213: -6955364666711987950
+    second: ThrowRock_0Degree31
+  - first:
+      213: -8322189805844103353
+    second: ThrowRock_0Degree32
+  - first:
+      213: -491346560142730483
+    second: ThrowRock_0Degree33
+  - first:
+      213: 4178984770642566045
+    second: ThrowRock_0Degree34
+  - first:
+      213: -871750116554587426
+    second: ThrowRock_0Degree35
+  - first:
+      213: -6265833450678693708
+    second: ThrowRock_0Degree36
+  - first:
+      213: 1745409603036770570
+    second: ThrowRock_0Degree37
+  - first:
+      213: -1603958249589289743
+    second: ThrowRock_0Degree38
+  - first:
+      213: 6351887731932154536
+    second: ThrowRock_0Degree39
+  - first:
+      213: -1505473782223815090
+    second: ThrowRock_0Degree40
+  - first:
+      213: 7427706374159258248
+    second: ThrowRock_0Degree41
+  - first:
+      213: -239174134453076202
+    second: ThrowRock_0Degree42
+  - first:
+      213: 7264087362386741528
+    second: ThrowRock_0Degree43
+  - first:
+      213: 4596259145320826781
+    second: ThrowRock_0Degree44
+  - first:
+      213: -5396330333641226915
+    second: ThrowRock_0Degree45
+  - first:
+      213: 9188782641517252661
+    second: ThrowRock_0Degree46
+  - first:
+      213: 858119122307799974
+    second: ThrowRock_0Degree47
+  - first:
+      213: 6850393548787346717
+    second: ThrowRock_0Degree48
+  - first:
+      213: -4660769252595351965
+    second: ThrowRock_0Degree49
+  - first:
+      213: -5493513199250466277
+    second: ThrowRock_0Degree50
+  - first:
+      213: -8176173644898510215
+    second: ThrowRock_0Degree51
+  - first:
+      213: -6073013400410460916
+    second: ThrowRock_0Degree52
+  - first:
+      213: -4295915708684014243
+    second: ThrowRock_0Degree53
+  - first:
+      213: -6413179863929061575
+    second: ThrowRock_0Degree54
+  - first:
+      213: -5531851597067331283
+    second: ThrowRock_0Degree55
+  - first:
+      213: 2745194440022156811
+    second: ThrowRock_0Degree56
+  - first:
+      213: 1403444910549423576
+    second: ThrowRock_0Degree57
+  - first:
+      213: 7712638567099318286
+    second: ThrowRock_0Degree58
+  - first:
+      213: 2958167862333923909
+    second: ThrowRock_0Degree59
+  - first:
+      213: 5232572878632672448
+    second: ThrowRock_0Degree60
+  - first:
+      213: -5023879931821919764
+    second: ThrowRock_0Degree61
+  - first:
+      213: -2158563996432379648
+    second: ThrowRock_0Degree62
+  - first:
+      213: -8876517988650644149
+    second: ThrowRock_0Degree63
+  - first:
+      213: 3553813166964791415
+    second: ThrowRock_0Degree64
+  - first:
+      213: -7174744856073351696
+    second: ThrowRock_0Degree65
+  - first:
+      213: -6902864966417936947
+    second: ThrowRock_0Degree66
+  - first:
+      213: -994663645335863366
+    second: ThrowRock_0Degree67
+  - first:
+      213: -8998948715608639636
+    second: ThrowRock_0Degree68
+  - first:
+      213: -8477617448885539493
+    second: ThrowRock_0Degree69
+  - first:
+      213: 7996657371445269119
+    second: ThrowRock_0Degree70
+  - first:
+      213: -8232811851359067359
+    second: ThrowRock_0Degree71
+  - first:
+      213: -8328012456408910309
+    second: ThrowRock_0Degree72
+  - first:
+      213: 1225312023929054915
+    second: ThrowRock_0Degree73
+  - first:
+      213: 9086057094686814213
+    second: ThrowRock_0Degree74
+  - first:
+      213: -5252558484441151103
+    second: ThrowRock_0Degree75
+  - first:
+      213: -2312596540379381279
+    second: ThrowRock_0Degree76
+  - first:
+      213: 2071667826687207401
+    second: ThrowRock_0Degree77
+  - first:
+      213: 1551917882634894138
+    second: ThrowRock_0Degree78
+  - first:
+      213: 4279957621221717606
+    second: ThrowRock_0Degree79
+  - first:
+      213: 1654605150699535284
+    second: ThrowRock_0Degree80
+  - first:
+      213: -2269509688034364215
+    second: ThrowRock_0Degree81
+  - first:
+      213: -1223906953398117316
+    second: ThrowRock_0Degree82
+  - first:
+      213: 1088510073935427616
+    second: ThrowRock_0Degree83
+  - first:
+      213: -4741636243169405732
+    second: ThrowRock_0Degree84
+  - first:
+      213: 9143714218246045486
+    second: ThrowRock_0Degree85
+  - first:
+      213: 3820333149545879227
+    second: ThrowRock_0Degree86
+  - first:
+      213: -623887134935939224
+    second: ThrowRock_0Degree87
+  - first:
+      213: 8061134430379585620
+    second: ThrowRock_0Degree88
+  - first:
+      213: 2875913744252976387
+    second: ThrowRock_0Degree89
+  - first:
+      213: 245899233431715398
+    second: ThrowRock_0Degree90
+  - first:
+      213: -3157074701055666934
+    second: ThrowRock_0Degree91
+  - first:
+      213: -2597261179084154323
+    second: ThrowRock_0Degree92
+  - first:
+      213: 9014569526999882900
+    second: ThrowRock_0Degree93
+  - first:
+      213: -2627891152005355565
+    second: ThrowRock_0Degree94
+  - first:
+      213: -4889662149091271229
+    second: ThrowRock_0Degree95
+  - first:
+      213: -8655778177785410782
+    second: ThrowRock_0Degree96
+  - first:
+      213: -899876802552841074
+    second: ThrowRock_0Degree97
+  - first:
+      213: 6126840154534992752
+    second: ThrowRock_0Degree98
+  - first:
+      213: 5456813785055724096
+    second: ThrowRock_0Degree99
+  - first:
+      213: -274563967317182750
+    second: ThrowRock_0Degree100
+  - first:
+      213: -3027085127529130989
+    second: ThrowRock_0Degree101
+  - first:
+      213: 1785017068591478366
+    second: ThrowRock_0Degree102
+  - first:
+      213: -487301409133135696
+    second: ThrowRock_0Degree103
+  - first:
+      213: -8743820551159272829
+    second: ThrowRock_0Degree104
+  - first:
+      213: 1687071328100885162
+    second: ThrowRock_0Degree105
+  - first:
+      213: 8710149651828785258
+    second: ThrowRock_0Degree106
+  - first:
+      213: 5872931812823627518
+    second: ThrowRock_0Degree107
+  - first:
+      213: -709784282525465822
+    second: ThrowRock_0Degree108
+  - first:
+      213: -7421064157823254176
+    second: ThrowRock_0Degree109
+  - first:
+      213: -5774286005896706258
+    second: ThrowRock_0Degree110
+  - first:
+      213: -8166016758224731899
+    second: ThrowRock_0Degree111
+  - first:
+      213: -5368535027141306496
+    second: ThrowRock_0Degree112
+  - first:
+      213: 1746751654922085227
+    second: ThrowRock_0Degree113
+  - first:
+      213: 6760870361271195683
+    second: ThrowRock_0Degree114
+  - first:
+      213: -8177509512718576631
+    second: ThrowRock_0Degree115
+  - first:
+      213: -1501681763006271376
+    second: ThrowRock_0Degree116
+  - first:
+      213: 9097444226350370716
+    second: ThrowRock_0Degree117
+  - first:
+      213: -7595151903069514163
+    second: ThrowRock_0Degree118
+  - first:
+      213: -6314577133721085352
+    second: ThrowRock_0Degree119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThrowRock_0Degree0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06245a9f2922db100800000000000000
+      internalID: 125294379285168736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c054604774caddc0800000000000000
+      internalID: -3613359734550933307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fb21b98c840b410800000000000000
+      internalID: 1490771503091990298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddfccdd7cfea66f0800000000000000
+      internalID: -690475951149220399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c370049d81cb430800000000000000
+      internalID: 3799939506955041910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree5
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd08118f8ee435580800000000000000
+      internalID: -8839634881096875812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree6
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fa4c33f917745b0800000000000000
+      internalID: -5384209900915871994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree7
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bcaf9f2fa48b660800000000000000
+      internalID: 7401748395019914009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree8
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ae02afcd98364d0800000000000000
+      internalID: -3142516532792202693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree9
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d34eafeafc09e10800000000000000
+      internalID: 2202488568224693575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree10
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ad9e92448a6ed60800000000000000
+      internalID: 7919202005492030017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree11
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236d6db8c422a19b0800000000000000
+      internalID: -5108733115139434958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b26b33c5c1c0afb0800000000000000
+      internalID: -4638494561063443786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096e4e8b25c686d50800000000000000
+      internalID: 6730748745650333328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fbef4b8e576f0d0800000000000000
+      internalID: -3389392027220263009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4f8b1dedca44060800000000000000
+      internalID: 6936859399058683122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c1323ffcc2ad7b0800000000000000
+      internalID: -5198793548196799399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acbc6b4e0242f670800000000000000
+      internalID: 8570985670001867942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree18
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c308e06804adde2c0800000000000000
+      internalID: -4400621290209247172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree19
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee3ba2b0be8f7ed0800000000000000
+      internalID: -2414053985684341018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree20
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f687a87b0f54c970800000000000000
+      internalID: 8774242476898092791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree21
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04ee435e833bf210800000000000000
+      internalID: 1367743598213129228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree22
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b51043c2e4a4a710800000000000000
+      internalID: 1703667852898211251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree23
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4697a61b06eaf2100800000000000000
+      internalID: 85478648259967332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e1a1b3a8b264df0800000000000000
+      internalID: -196421661046989187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d72942a6d44f9440800000000000000
+      internalID: 4944746604512487379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e098aa0b5f43220800000000000000
+      internalID: 2464865035202661927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79e1dfc49d76b9d0800000000000000
+      internalID: -2758879643622577795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree28
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44525c40561e0af10800000000000000
+      internalID: 2279069235437446468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64be13b4fca355930800000000000000
+      internalID: 4131272895176502086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree30
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c8570478ec8aa60800000000000000
+      internalID: 7685619844405103713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree31
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219245dcfa4997f90800000000000000
+      internalID: -6955364666711987950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree32
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ff845e674a18c80800000000000000
+      internalID: -8322189805844103353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree33
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b151528e26e29f0800000000000000
+      internalID: -491346560142730483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree34
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bdae7f18cbef930800000000000000
+      internalID: 4178984770642566045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree35
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2cbd143ebe6e3f0800000000000000
+      internalID: -871750116554587426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b05986aca94b09a0800000000000000
+      internalID: -6265833450678693708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01ff8059c0f83810800000000000000
+      internalID: 1745409603036770570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc4caa58789db9e0800000000000000
+      internalID: -1603958249589289743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree39
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa4afa0d30762850800000000000000
+      internalID: 6351887731932154536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree40
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eb2e7429b7b1be0800000000000000
+      internalID: -1505473782223815090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree41
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882daa7f793841760800000000000000
+      internalID: 7427706374159258248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree42
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f767454684eacf0800000000000000
+      internalID: -239174134453076202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree43
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819477428f83fc460800000000000000
+      internalID: 7264087362386741528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree44
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d970d74375139cf30800000000000000
+      internalID: 4596259145320826781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree45
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5546ac07226c15b0800000000000000
+      internalID: -5396330333641226915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree46
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53059e1d02d158f70800000000000000
+      internalID: 9188782641517252661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree47
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab50249bc6a8eb00800000000000000
+      internalID: 858119122307799974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1de81f33ac711f50800000000000000
+      internalID: 6850393548787346717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ebdfefe0f915fb0800000000000000
+      internalID: -4660769252595351965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a91c5e9de13c3b0800000000000000
+      internalID: -5493513199250466277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree51
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ad9e1a365688e80800000000000000
+      internalID: -8176173644898510215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree52
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0de8501d7258bba0800000000000000
+      internalID: -6073013400410460916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree53
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d6ed67c67d164c0800000000000000
+      internalID: -4295915708684014243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree54
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff1d964eecff6a0800000000000000
+      internalID: -6413179863929061575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree55
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29df9e084aea33b0800000000000000
+      internalID: -5531851597067331283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree56
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06e5ec6cc3e81620800000000000000
+      internalID: 2745194440022156811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree57
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5d02bd5b90a7310800000000000000
+      internalID: 1403444910549423576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree58
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00cee8d9ebc80b60800000000000000
+      internalID: 7712638567099318286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree59
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542e36c6ff58d0920800000000000000
+      internalID: 2958167862333923909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc5e3c4f45dd9840800000000000000
+      internalID: 5232572878632672448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce17a85d1d7974ab0800000000000000
+      internalID: -5023879931821919764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00153b75b7d3b02e0800000000000000
+      internalID: -2158563996432379648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree63
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d0d1c4be540d480800000000000000
+      internalID: -8876517988650644149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree64
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778da071f3ea15130800000000000000
+      internalID: 3553813166964791415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree65
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdcfab119f2e6c90800000000000000
+      internalID: -7174744856073351696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree66
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd8b20d2e81430a0800000000000000
+      internalID: -6902864966417936947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree67
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfb2cc3fae3232f0800000000000000
+      internalID: -994663645335863366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree68
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67703652df4d1380800000000000000
+      internalID: -8998948715608639636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree69
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d2689b8d3795a80800000000000000
+      internalID: -8477617448885539493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree70
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72118fd285d9fe60800000000000000
+      internalID: 7996657371445269119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree71
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123ed119d3d2fbd80800000000000000
+      internalID: -8232811851359067359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16f7ba6bc4fc6c80800000000000000
+      internalID: -8328012456408910309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree73
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c66e453bce210110800000000000000
+      internalID: 1225312023929054915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree74
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500b9b1a9c8281e70800000000000000
+      internalID: 9086057094686814213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree75
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189cbec33e92b17b0800000000000000
+      internalID: -5252558484441151103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree76
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1c3edf2b108efd0800000000000000
+      internalID: -2312596540379381279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree77
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7eb4689ea00cc10800000000000000
+      internalID: 2071667826687207401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree78
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b77038715898510800000000000000
+      internalID: 1551917882634894138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree79
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66675a2c7c6756b30800000000000000
+      internalID: 4279957621221717606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree80
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb3afa3e9656f610800000000000000
+      internalID: 1654605150699535284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree81
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4776e86f41180e0800000000000000
+      internalID: -2269509688034364215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree82
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c13944c1fc30fe0800000000000000
+      internalID: -1223906953398117316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree83
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028fa53252a2b1f00800000000000000
+      internalID: 1088510073935427616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd415c785f2523eb0800000000000000
+      internalID: -4741636243169405732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f7e32d2aff4ee70800000000000000
+      internalID: 9143714218246045486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree86
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6d45e22cc840530800000000000000
+      internalID: 3820333149545879227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree87
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867053ec4f18757f0800000000000000
+      internalID: -623887134935939224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree88
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45032710e07eedf60800000000000000
+      internalID: 8061134430379585620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree89
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dbcda205c49e720800000000000000
+      internalID: 2875913744252976387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree90
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64efc3bcc0c996300800000000000000
+      internalID: 245899233431715398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree91
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05543a4941df24d0800000000000000
+      internalID: -3157074701055666934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree92
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ad6cfe7bca4fbd0800000000000000
+      internalID: -2597261179084154323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree93
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c93eb393f2a1d70800000000000000
+      internalID: 9014569526999882900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree94
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d72450abead78bd0800000000000000
+      internalID: -2627891152005355565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree95
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdddb39e2e642cb0800000000000000
+      internalID: -4889662149091271229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc58a8b9f70e780800000000000000
+      internalID: -8655778177785410782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree97
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c393ad0def283f0800000000000000
+      internalID: -899876802552841074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree98
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b58aeb8a8e60550800000000000000
+      internalID: 6126840154534992752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree99
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04283bfd93f7abb40800000000000000
+      internalID: 5456813785055724096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree100
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6ffe3c68d803cf0800000000000000
+      internalID: -274563967317182750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree101
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31412cc5d12adf5d0800000000000000
+      internalID: -3027085127529130989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree102
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5677630197a5c810800000000000000
+      internalID: 1785017068591478366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree103
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8721243f1cc39f0800000000000000
+      internalID: -487301409133135696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree104
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a24641985b7a680800000000000000
+      internalID: -8743820551159272829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree105
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa223363f6ea96710800000000000000
+      internalID: 1687071328100885162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree106
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a604fb1c5faa0e870800000000000000
+      internalID: 8710149651828785258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree107
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6717d1e58d08150800000000000000
+      internalID: 5872931812823627518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2230ae4a4f65626f0800000000000000
+      internalID: -709784282525465822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree109
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061cf898775130990800000000000000
+      internalID: -7421064157823254176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27840b987d9ddfa0800000000000000
+      internalID: -5774286005896706258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree111
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501c028160b7cae80800000000000000
+      internalID: -8166016758224731899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree112
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087100726d12f75b0800000000000000
+      internalID: -5368535027141306496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree113
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63e47e1065bd3810800000000000000
+      internalID: 1746751654922085227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree114
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3285900e5cf63dd50800000000000000
+      internalID: 6760870361271195683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree115
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904180bac66a38e80800000000000000
+      internalID: -8177509512718576631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree116
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070345e8464f82be0800000000000000
+      internalID: -1501681763006271376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree117
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fca83d25d904e70800000000000000
+      internalID: 9097444226350370716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree118
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46d862c599989690800000000000000
+      internalID: -7595151903069514163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_0Degree119
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a10cd8d8d1e58a0800000000000000
+      internalID: -6314577133721085352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2996 @@
+fileFormatVersion: 2
+guid: bd5de1d692ebed440afb4556a49bec5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Throw_315Degree0
+  - first:
+      213: 21300002
+    second: Throw_315Degree1
+  - first:
+      213: 21300004
+    second: Throw_315Degree2
+  - first:
+      213: 21300006
+    second: Throw_315Degree3
+  - first:
+      213: 21300008
+    second: Throw_315Degree4
+  - first:
+      213: 21300010
+    second: Throw_315Degree5
+  - first:
+      213: 21300012
+    second: Throw_315Degree6
+  - first:
+      213: 21300014
+    second: Throw_315Degree7
+  - first:
+      213: 21300016
+    second: Throw_315Degree8
+  - first:
+      213: 21300018
+    second: Throw_315Degree9
+  - first:
+      213: 21300020
+    second: Throw_315Degree10
+  - first:
+      213: 21300022
+    second: Throw_315Degree11
+  - first:
+      213: 21300024
+    second: Throw_315Degree12
+  - first:
+      213: 21300026
+    second: Throw_315Degree13
+  - first:
+      213: 21300028
+    second: Throw_315Degree14
+  - first:
+      213: 21300030
+    second: Throw_315Degree15
+  - first:
+      213: 21300032
+    second: Throw_315Degree16
+  - first:
+      213: 21300034
+    second: Throw_315Degree17
+  - first:
+      213: 21300036
+    second: Throw_315Degree18
+  - first:
+      213: 21300038
+    second: Throw_315Degree19
+  - first:
+      213: 21300040
+    second: Throw_315Degree20
+  - first:
+      213: 21300042
+    second: Throw_315Degree21
+  - first:
+      213: 21300044
+    second: Throw_315Degree22
+  - first:
+      213: 21300046
+    second: Throw_315Degree23
+  - first:
+      213: 21300048
+    second: Throw_315Degree24
+  - first:
+      213: 21300050
+    second: Throw_315Degree25
+  - first:
+      213: 21300052
+    second: Throw_315Degree26
+  - first:
+      213: 21300054
+    second: Throw_315Degree27
+  - first:
+      213: 21300056
+    second: Throw_315Degree28
+  - first:
+      213: 21300058
+    second: Throw_315Degree29
+  - first:
+      213: 21300060
+    second: Throw_315Degree30
+  - first:
+      213: 21300062
+    second: Throw_315Degree31
+  - first:
+      213: 21300064
+    second: Throw_315Degree32
+  - first:
+      213: 21300066
+    second: Throw_315Degree33
+  - first:
+      213: 21300068
+    second: Throw_315Degree34
+  - first:
+      213: 21300070
+    second: Throw_315Degree35
+  - first:
+      213: 21300072
+    second: Throw_315Degree36
+  - first:
+      213: 21300074
+    second: Throw_315Degree37
+  - first:
+      213: 21300076
+    second: Throw_315Degree38
+  - first:
+      213: 21300078
+    second: Throw_315Degree39
+  - first:
+      213: 21300080
+    second: Throw_315Degree40
+  - first:
+      213: 21300082
+    second: Throw_315Degree41
+  - first:
+      213: 21300084
+    second: Throw_315Degree42
+  - first:
+      213: 8834069327552640633
+    second: Throw_315Degree43
+  - first:
+      213: -5552762798015135042
+    second: Throw_315Degree44
+  - first:
+      213: -676831291474038596
+    second: Throw_315Degree45
+  - first:
+      213: 1215158569646011372
+    second: Throw_315Degree46
+  - first:
+      213: -3786938454194301081
+    second: Throw_315Degree47
+  - first:
+      213: 3041291067894539861
+    second: Throw_315Degree48
+  - first:
+      213: 7123981436191288394
+    second: Throw_315Degree49
+  - first:
+      213: 7798923808151882002
+    second: Throw_315Degree50
+  - first:
+      213: -7369644746860166356
+    second: Throw_315Degree51
+  - first:
+      213: -8556631523126777460
+    second: Throw_315Degree52
+  - first:
+      213: -5749428332783275221
+    second: Throw_315Degree53
+  - first:
+      213: -1561574694747314526
+    second: Throw_315Degree54
+  - first:
+      213: 7133020978919039313
+    second: Throw_315Degree55
+  - first:
+      213: -1870163182226675202
+    second: Throw_315Degree56
+  - first:
+      213: 7915010774882575304
+    second: Throw_315Degree57
+  - first:
+      213: 1885895176904874284
+    second: Throw_315Degree58
+  - first:
+      213: 7117743855748282030
+    second: Throw_315Degree59
+  - first:
+      213: -809846251514891224
+    second: Throw_315Degree60
+  - first:
+      213: 457659328107679144
+    second: Throw_315Degree61
+  - first:
+      213: 1030734885779772369
+    second: Throw_315Degree62
+  - first:
+      213: 6005469240614268491
+    second: Throw_315Degree63
+  - first:
+      213: -189244412520905930
+    second: Throw_315Degree64
+  - first:
+      213: -3319621755015834110
+    second: Throw_315Degree65
+  - first:
+      213: 8365527087201551216
+    second: Throw_315Degree66
+  - first:
+      213: -6456557574349785659
+    second: Throw_315Degree67
+  - first:
+      213: -226685708329758626
+    second: Throw_315Degree68
+  - first:
+      213: -281126922441645986
+    second: Throw_315Degree69
+  - first:
+      213: 4177668178518682944
+    second: Throw_315Degree70
+  - first:
+      213: -7835770479121537021
+    second: Throw_315Degree71
+  - first:
+      213: -5459787994555446979
+    second: Throw_315Degree72
+  - first:
+      213: 6369169175571158876
+    second: Throw_315Degree73
+  - first:
+      213: -8420679634129910043
+    second: Throw_315Degree74
+  - first:
+      213: -7316400686683940588
+    second: Throw_315Degree75
+  - first:
+      213: 4490908486806329500
+    second: Throw_315Degree76
+  - first:
+      213: 3945769133147542417
+    second: Throw_315Degree77
+  - first:
+      213: 2762824226338076167
+    second: Throw_315Degree78
+  - first:
+      213: 4368899235113867484
+    second: Throw_315Degree79
+  - first:
+      213: -429745192477764705
+    second: Throw_315Degree80
+  - first:
+      213: -392796798545710704
+    second: Throw_315Degree81
+  - first:
+      213: -4848770096199956791
+    second: Throw_315Degree82
+  - first:
+      213: -5313398472751084620
+    second: Throw_315Degree83
+  - first:
+      213: 4838063569142470668
+    second: Throw_315Degree84
+  - first:
+      213: -2368208959919559910
+    second: Throw_315Degree85
+  - first:
+      213: 3757300421038292103
+    second: Throw_315Degree86
+  - first:
+      213: -8291450063119710740
+    second: Throw_315Degree87
+  - first:
+      213: 5572236478057897965
+    second: Throw_315Degree88
+  - first:
+      213: -1788232277472603708
+    second: Throw_315Degree89
+  - first:
+      213: -2886906524935068353
+    second: Throw_315Degree90
+  - first:
+      213: -1798972544074816863
+    second: Throw_315Degree91
+  - first:
+      213: -4391726047948555856
+    second: Throw_315Degree92
+  - first:
+      213: -8099921649604219389
+    second: Throw_315Degree93
+  - first:
+      213: 955461844861428174
+    second: Throw_315Degree94
+  - first:
+      213: 8245045498680672734
+    second: Throw_315Degree95
+  - first:
+      213: -344821475392923649
+    second: Throw_315Degree96
+  - first:
+      213: -6978115101502746746
+    second: Throw_315Degree97
+  - first:
+      213: -4767503963891488532
+    second: Throw_315Degree98
+  - first:
+      213: 7539637741785828863
+    second: Throw_315Degree99
+  - first:
+      213: 9217187414970741472
+    second: Throw_315Degree100
+  - first:
+      213: 1745230851067319477
+    second: Throw_315Degree101
+  - first:
+      213: -4646972394830396625
+    second: Throw_315Degree102
+  - first:
+      213: -1444289988655536373
+    second: Throw_315Degree103
+  - first:
+      213: 578638042436256335
+    second: Throw_315Degree104
+  - first:
+      213: -2326866366309406107
+    second: Throw_315Degree105
+  - first:
+      213: -7616846796794032912
+    second: Throw_315Degree106
+  - first:
+      213: -2841137117763199356
+    second: Throw_315Degree107
+  - first:
+      213: 2056087457843791119
+    second: Throw_315Degree108
+  - first:
+      213: -288247111637282302
+    second: Throw_315Degree109
+  - first:
+      213: 8639678912199161256
+    second: Throw_315Degree110
+  - first:
+      213: -2207224651024071052
+    second: Throw_315Degree111
+  - first:
+      213: -3708654584298331976
+    second: Throw_315Degree112
+  - first:
+      213: 5562822846653581020
+    second: Throw_315Degree113
+  - first:
+      213: 293829732032614594
+    second: Throw_315Degree114
+  - first:
+      213: 5459005438398858216
+    second: Throw_315Degree115
+  - first:
+      213: 8134295317205548244
+    second: Throw_315Degree116
+  - first:
+      213: -6525970859300064215
+    second: Throw_315Degree117
+  - first:
+      213: -7658231530047755827
+    second: Throw_315Degree118
+  - first:
+      213: 8577247791375892566
+    second: Throw_315Degree119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Throw_315Degree0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree4
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree5
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree6
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree7
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree8
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree9
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree13
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree14
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree15
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree16
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree17
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree18
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree19
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree23
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree24
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree25
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree26
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree27
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree28
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree29
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree31
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree32
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree33
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree34
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree35
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree36
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree37
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree38
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree39
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree41
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree42
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree43
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976f2fd9f3be89a70800000000000000
+      internalID: 8834069327552640633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree44
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2cd4ea7af90f2b0800000000000000
+      internalID: -5552762798015135042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree45
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb032d2c6896b96f0800000000000000
+      internalID: -676831291474038596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree46
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b589e74c1dd010800000000000000
+      internalID: 1215158569646011372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree47
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7675b7b3a87127bc0800000000000000
+      internalID: -3786938454194301081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree48
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5562c60ec16d43a20800000000000000
+      internalID: 3041291067894539861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree49
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ca8aa2f577dd260800000000000000
+      internalID: 7123981436191288394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219ca3f02e75b3c60800000000000000
+      internalID: 7798923808151882002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2383961623c9b990800000000000000
+      internalID: -7369644746860166356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree52
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c896e16f6fcb04980800000000000000
+      internalID: -8556631523126777460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree53
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f2e2a46de530b0800000000000000
+      internalID: -5749428332783275221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree54
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6e855b61c245ae0800000000000000
+      internalID: -1561574694747314526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree55
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151e0e7b9c49df260800000000000000
+      internalID: 7133020978919039313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree56
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef96d5b8e78db06e0800000000000000
+      internalID: -1870163182226675202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree57
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3e34e3d54c7dd60800000000000000
+      internalID: 7915010774882575304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree58
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c299907ebab0c2a10800000000000000
+      internalID: 1885895176904874284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree59
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6781c435e47c260800000000000000
+      internalID: 7117743855748282030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824f5cfff19d2c4f0800000000000000
+      internalID: -809846251514891224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree61
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad8000fbbee95600800000000000000
+      internalID: 457659328107679144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree62
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d39184eae7ed4e00800000000000000
+      internalID: 1030734885779772369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree63
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e295cb476b75350800000000000000
+      internalID: 6005469240614268491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree64
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633c6ff953baf5df0800000000000000
+      internalID: -189244412520905930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree65
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065f971a955ee1d0800000000000000
+      internalID: -3319621755015834110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree66
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0738e873092581470800000000000000
+      internalID: 8365527087201551216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree67
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f50d2813b566a0800000000000000
+      internalID: -6456557574349785659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree68
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50d85f9c86aadcf0800000000000000
+      internalID: -226685708329758626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree69
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e502113bd8c391cf0800000000000000
+      internalID: -281126922441645986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d2f0af21f0af930800000000000000
+      internalID: 4177668178518682944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree71
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308e772d340c14390800000000000000
+      internalID: -7835770479121537021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree72
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3984930fbfea34b0800000000000000
+      internalID: -5459787994555446979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree73
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c575940be95d36850800000000000000
+      internalID: 6369169175571158876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree74
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e60258cc7cb32b80800000000000000
+      internalID: -8420679634129910043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree75
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41997c3e65ce67a90800000000000000
+      internalID: -7316400686683940588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree76
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98d0e29979e25e30800000000000000
+      internalID: 4490908486806329500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree77
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193d5fafe1032c630800000000000000
+      internalID: 3945769133147542417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree78
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70679bbeef5875620800000000000000
+      internalID: 2762824226338076167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree79
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd81078f4b271ac30800000000000000
+      internalID: 4368899235113867484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f935e6a360d390af0800000000000000
+      internalID: -429745192477764705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091b5c194618c8af0800000000000000
+      internalID: -392796798545710704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree82
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c607729945b5bcb0800000000000000
+      internalID: -4848770096199956791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree83
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb81999d340346b0800000000000000
+      internalID: -5313398472751084620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree84
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08de77de21442340800000000000000
+      internalID: 4838063569142470668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree85
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1be81e8f7e622fd0800000000000000
+      internalID: -2368208959919559910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree86
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb96e63dc942430800000000000000
+      internalID: 3757300421038292103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree87
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce50cdaf81adeec80800000000000000
+      internalID: -8291450063119710740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree88
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def5d17cd8f845d40800000000000000
+      internalID: 5572236478057897965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree89
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c19b55d73cee27e0800000000000000
+      internalID: -1788232277472603708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35ec71afc5afe7d0800000000000000
+      internalID: -2886906524935068353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree91
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a26db5a004c807e0800000000000000
+      internalID: -1798972544074816863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree92
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b932318d647d03c0800000000000000
+      internalID: -4391726047948555856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree93
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e28d6cc2c479f80800000000000000
+      internalID: -8099921649604219389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree94
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1a7635c7b724d00800000000000000
+      internalID: 955461844861428174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree95
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed18bc962394c6270800000000000000
+      internalID: 8245045498680672734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree96
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff75740f1b2f63bf0800000000000000
+      internalID: -344821475392923649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree97
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fc32d6941c82f90800000000000000
+      internalID: -6978115101502746746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree98
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce82bf6776c66ddb0800000000000000
+      internalID: -4767503963891488532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree99
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdc546549c22a860800000000000000
+      internalID: 7539637741785828863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e238818e170aef70800000000000000
+      internalID: 9217187414970741472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree101
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b49be0663e483810800000000000000
+      internalID: 1745230851067319477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree102
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2386154a33a28fb0800000000000000
+      internalID: -4646972394830396625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree103
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a88158e9d4fbe0800000000000000
+      internalID: -1444289988655536373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree104
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42c0fcdb3cb70800800000000000000
+      internalID: 578638042436256335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree105
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ae25c3e5f45bfd0800000000000000
+      internalID: -2326866366309406107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree106
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc0580b1368b4690800000000000000
+      internalID: -7616846796794032912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree107
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e1c8928d04298d0800000000000000
+      internalID: -2841137117763199356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree108
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f054ae736a0b88c10800000000000000
+      internalID: 2056087457843791119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree109
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202d35777c0fffbf0800000000000000
+      internalID: -288247111637282302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a57017123e46e770800000000000000
+      internalID: 8639678912199161256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree111
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4768930dfdc5e51e0800000000000000
+      internalID: -2207224651024071052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree112
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0264c0e46388cc0800000000000000
+      internalID: -3708654584298331976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree113
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6c63be7ed133d40800000000000000
+      internalID: 5562822846653581020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree114
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09042a594e31400800000000000000
+      internalID: 293829732032614594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree115
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e380bee58842cb40800000000000000
+      internalID: 5459005438398858216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree116
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcf8206e72d2e070800000000000000
+      internalID: 8134295317205548244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree117
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9247edc54181f65a0800000000000000
+      internalID: -6525970859300064215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree118
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9aecb9ffe78b590800000000000000
+      internalID: -7658231530047755827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_315Degree119
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650c67b0c61880770800000000000000
+      internalID: 8577247791375892566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9b8adb179e1eeca4a8528f14012cd411
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2996 @@
+fileFormatVersion: 2
+guid: d05daf406e481444b856e086c2e9cc63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Throw_90Degree0
+  - first:
+      213: 21300002
+    second: Throw_90Degree1
+  - first:
+      213: 21300004
+    second: Throw_90Degree2
+  - first:
+      213: 21300006
+    second: Throw_90Degree3
+  - first:
+      213: 21300008
+    second: Throw_90Degree4
+  - first:
+      213: 21300010
+    second: Throw_90Degree5
+  - first:
+      213: 21300012
+    second: Throw_90Degree6
+  - first:
+      213: 21300014
+    second: Throw_90Degree7
+  - first:
+      213: 21300016
+    second: Throw_90Degree8
+  - first:
+      213: 21300018
+    second: Throw_90Degree9
+  - first:
+      213: 21300020
+    second: Throw_90Degree10
+  - first:
+      213: 21300022
+    second: Throw_90Degree11
+  - first:
+      213: 21300024
+    second: Throw_90Degree12
+  - first:
+      213: 21300026
+    second: Throw_90Degree13
+  - first:
+      213: 21300028
+    second: Throw_90Degree14
+  - first:
+      213: 21300030
+    second: Throw_90Degree15
+  - first:
+      213: 21300032
+    second: Throw_90Degree16
+  - first:
+      213: 21300034
+    second: Throw_90Degree17
+  - first:
+      213: 21300036
+    second: Throw_90Degree18
+  - first:
+      213: 21300038
+    second: Throw_90Degree19
+  - first:
+      213: 21300040
+    second: Throw_90Degree20
+  - first:
+      213: 21300042
+    second: Throw_90Degree21
+  - first:
+      213: 21300044
+    second: Throw_90Degree22
+  - first:
+      213: 21300046
+    second: Throw_90Degree23
+  - first:
+      213: 21300048
+    second: Throw_90Degree24
+  - first:
+      213: 21300050
+    second: Throw_90Degree25
+  - first:
+      213: 21300052
+    second: Throw_90Degree26
+  - first:
+      213: 21300054
+    second: Throw_90Degree27
+  - first:
+      213: 21300056
+    second: Throw_90Degree28
+  - first:
+      213: 21300058
+    second: Throw_90Degree29
+  - first:
+      213: 21300060
+    second: Throw_90Degree30
+  - first:
+      213: 21300062
+    second: Throw_90Degree31
+  - first:
+      213: 21300064
+    second: Throw_90Degree32
+  - first:
+      213: 21300066
+    second: Throw_90Degree33
+  - first:
+      213: 21300068
+    second: Throw_90Degree34
+  - first:
+      213: 21300070
+    second: Throw_90Degree35
+  - first:
+      213: 21300072
+    second: Throw_90Degree36
+  - first:
+      213: 21300074
+    second: Throw_90Degree37
+  - first:
+      213: 21300076
+    second: Throw_90Degree38
+  - first:
+      213: 21300078
+    second: Throw_90Degree39
+  - first:
+      213: 21300080
+    second: Throw_90Degree40
+  - first:
+      213: 21300082
+    second: Throw_90Degree41
+  - first:
+      213: 21300084
+    second: Throw_90Degree42
+  - first:
+      213: -5686510389504614198
+    second: Throw_90Degree43
+  - first:
+      213: 4238612833517833266
+    second: Throw_90Degree44
+  - first:
+      213: -6152239260223096186
+    second: Throw_90Degree45
+  - first:
+      213: 4475355679504312528
+    second: Throw_90Degree46
+  - first:
+      213: 7518609669658378175
+    second: Throw_90Degree47
+  - first:
+      213: -5866485511313895700
+    second: Throw_90Degree48
+  - first:
+      213: 1100687053466804821
+    second: Throw_90Degree49
+  - first:
+      213: 8947800686791924045
+    second: Throw_90Degree50
+  - first:
+      213: -9165277747388578844
+    second: Throw_90Degree51
+  - first:
+      213: -2044375430336271694
+    second: Throw_90Degree52
+  - first:
+      213: -7606410630063669687
+    second: Throw_90Degree53
+  - first:
+      213: -8287600493700951261
+    second: Throw_90Degree54
+  - first:
+      213: -7275885023672845605
+    second: Throw_90Degree55
+  - first:
+      213: -7697395973137466177
+    second: Throw_90Degree56
+  - first:
+      213: 4962282881596944422
+    second: Throw_90Degree57
+  - first:
+      213: 8786236947422456204
+    second: Throw_90Degree58
+  - first:
+      213: 2167637904289200496
+    second: Throw_90Degree59
+  - first:
+      213: 9187825318252207911
+    second: Throw_90Degree60
+  - first:
+      213: 1715806413861019807
+    second: Throw_90Degree61
+  - first:
+      213: -7188223126104813573
+    second: Throw_90Degree62
+  - first:
+      213: 2558580701821403295
+    second: Throw_90Degree63
+  - first:
+      213: 9047995602157508457
+    second: Throw_90Degree64
+  - first:
+      213: 87860193965411433
+    second: Throw_90Degree65
+  - first:
+      213: 2820398584273508372
+    second: Throw_90Degree66
+  - first:
+      213: -4745171650320838323
+    second: Throw_90Degree67
+  - first:
+      213: -5441868621369421319
+    second: Throw_90Degree68
+  - first:
+      213: 6907484091060134807
+    second: Throw_90Degree69
+  - first:
+      213: 6163471428925515326
+    second: Throw_90Degree70
+  - first:
+      213: -5186392891875597979
+    second: Throw_90Degree71
+  - first:
+      213: 1343377692478597426
+    second: Throw_90Degree72
+  - first:
+      213: 1432226647742247871
+    second: Throw_90Degree73
+  - first:
+      213: -4692681045212122914
+    second: Throw_90Degree74
+  - first:
+      213: -4739919475034686180
+    second: Throw_90Degree75
+  - first:
+      213: -5360132604191446243
+    second: Throw_90Degree76
+  - first:
+      213: 8409811653345709481
+    second: Throw_90Degree77
+  - first:
+      213: 5074471676750597274
+    second: Throw_90Degree78
+  - first:
+      213: 2269879473713876742
+    second: Throw_90Degree79
+  - first:
+      213: 3105805371193869192
+    second: Throw_90Degree80
+  - first:
+      213: -150648879202450598
+    second: Throw_90Degree81
+  - first:
+      213: -419333946898740426
+    second: Throw_90Degree82
+  - first:
+      213: 8133924674311702274
+    second: Throw_90Degree83
+  - first:
+      213: 8306581255483351627
+    second: Throw_90Degree84
+  - first:
+      213: -5599415530630839535
+    second: Throw_90Degree85
+  - first:
+      213: 3188402714153371797
+    second: Throw_90Degree86
+  - first:
+      213: 9011465449864863233
+    second: Throw_90Degree87
+  - first:
+      213: -4408067623138658381
+    second: Throw_90Degree88
+  - first:
+      213: -1311215417479771365
+    second: Throw_90Degree89
+  - first:
+      213: 1717021714355048312
+    second: Throw_90Degree90
+  - first:
+      213: 5321461172384219092
+    second: Throw_90Degree91
+  - first:
+      213: 4805956158143165958
+    second: Throw_90Degree92
+  - first:
+      213: 4508144802388101047
+    second: Throw_90Degree93
+  - first:
+      213: 5599949145711076033
+    second: Throw_90Degree94
+  - first:
+      213: -8240535978363796644
+    second: Throw_90Degree95
+  - first:
+      213: -954196703671659637
+    second: Throw_90Degree96
+  - first:
+      213: -5304069506048437522
+    second: Throw_90Degree97
+  - first:
+      213: -2091880020630448544
+    second: Throw_90Degree98
+  - first:
+      213: -1107314357883808319
+    second: Throw_90Degree99
+  - first:
+      213: -5705849850917695772
+    second: Throw_90Degree100
+  - first:
+      213: -15820366067069065
+    second: Throw_90Degree101
+  - first:
+      213: 1136359599304682284
+    second: Throw_90Degree102
+  - first:
+      213: 2552154263368321144
+    second: Throw_90Degree103
+  - first:
+      213: 5113298159771206157
+    second: Throw_90Degree104
+  - first:
+      213: 5930375076545206748
+    second: Throw_90Degree105
+  - first:
+      213: -1638260299977183534
+    second: Throw_90Degree106
+  - first:
+      213: -9123119134403652872
+    second: Throw_90Degree107
+  - first:
+      213: -4327378422807586499
+    second: Throw_90Degree108
+  - first:
+      213: -2239330722841628188
+    second: Throw_90Degree109
+  - first:
+      213: 5510046704084078242
+    second: Throw_90Degree110
+  - first:
+      213: -6494574650357421757
+    second: Throw_90Degree111
+  - first:
+      213: 793921051394727548
+    second: Throw_90Degree112
+  - first:
+      213: 4431304840601982375
+    second: Throw_90Degree113
+  - first:
+      213: 2643278174460648503
+    second: Throw_90Degree114
+  - first:
+      213: 8683765639163899511
+    second: Throw_90Degree115
+  - first:
+      213: 783981491458497383
+    second: Throw_90Degree116
+  - first:
+      213: -6018326628315908924
+    second: Throw_90Degree117
+  - first:
+      213: -4335524263855071915
+    second: Throw_90Degree118
+  - first:
+      213: 597985646809533065
+    second: Throw_90Degree119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Throw_90Degree0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree4
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree5
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree6
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree7
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree8
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree9
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3807
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree13
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree14
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree15
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree16
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree17
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree18
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree19
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3518
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree23
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree24
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree25
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree26
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree27
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree28
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree29
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3229
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree31
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree32
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree33
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree34
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree35
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree36
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree37
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree38
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree39
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2940
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree41
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree42
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree43
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0620edde47511b0800000000000000
+      internalID: -5686510389504614198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree44
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c0e3a3ae392da30800000000000000
+      internalID: 4238612833517833266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree45
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ab0312dfade9aa0800000000000000
+      internalID: -6152239260223096186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree46
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8a1607748ab1e30800000000000000
+      internalID: 4475355679504312528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree47
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbffdc4c8a7775860800000000000000
+      internalID: 7518609669658378175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree48
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceec82a628e069ea0800000000000000
+      internalID: -5866485511313895700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree49
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2651
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a2ce1b0d664f00800000000000000
+      internalID: 1100687053466804821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d499a313159fc2c70800000000000000
+      internalID: 8947800686791924045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e38c1fc2746ec080800000000000000
+      internalID: -9165277747388578844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree52
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba254fa06be0a3e0800000000000000
+      internalID: -2044375430336271694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree53
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ebc4b15d9907690800000000000000
+      internalID: -7606410630063669687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree54
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3235a94b2478cfc80800000000000000
+      internalID: -8287600493700951261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree55
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda3569ce1dd60b90800000000000000
+      internalID: -7275885023672845605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree56
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc7e9d152b5d2590800000000000000
+      internalID: -7697395973137466177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree57
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62076905df19dd440800000000000000
+      internalID: 4962282881596944422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree58
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c892783c3fbfee970800000000000000
+      internalID: 8786236947422456204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree59
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2362
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07974d6703ff41e10800000000000000
+      internalID: 2167637904289200496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f53c0a276b18f70800000000000000
+      internalID: 9187825318252207911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree61
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90e589b7d4cfc710800000000000000
+      internalID: 1715806413861019807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree62
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff4642d62d4e3c90800000000000000
+      internalID: -7188223126104813573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree63
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f900c35a797e18320800000000000000
+      internalID: 2558580701821403295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree64
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96715e3df00f09d70800000000000000
+      internalID: 9047995602157508457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree65
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c84338164283100800000000000000
+      internalID: 87860193965411433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree66
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41813acb191142720800000000000000
+      internalID: 2820398584273508372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree67
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d415f586683c52eb0800000000000000
+      internalID: -4745171650320838323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree68
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f15ee432599a74b0800000000000000
+      internalID: -5441868621369421319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree69
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2073
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7932d43fe205cdf50800000000000000
+      internalID: 6907484091060134807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36ef50fb9c098550800000000000000
+      internalID: 6163471428925515326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree71
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561e42eb42b3608b0800000000000000
+      internalID: -5186392891875597979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree72
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239ee5fc4e2a4a210800000000000000
+      internalID: 1343377692478597426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree73
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb376804c8a40e310800000000000000
+      internalID: 1432226647742247871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree74
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed03ce7c37f30eeb0800000000000000
+      internalID: -4692681045212122914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree75
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1df992c95c683eb0800000000000000
+      internalID: -4739919475034686180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree76
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bed22bbcbfc95b0800000000000000
+      internalID: -5360132604191446243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree77
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad8c914427a5b470800000000000000
+      internalID: 8409811653345709481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree78
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c0083ba152c6640800000000000000
+      internalID: 5074471676750597274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree79
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1784
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f8aa1ea5b308f10800000000000000
+      internalID: 2269879473713876742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883c283a7890a1b20800000000000000
+      internalID: 3105805371193869192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53c35d74a9c8edf0800000000000000
+      internalID: -150648879202450598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree82
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b86dc3ff93e2af0800000000000000
+      internalID: -419333946898740426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree83
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207422a556181e070800000000000000
+      internalID: 8133924674311702274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree84
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42e00744a7e64370800000000000000
+      internalID: 8306581255483351627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree85
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11381faed31ea42b0800000000000000
+      internalID: -5599415530630839535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree86
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598c00a206b7f3c20800000000000000
+      internalID: 3188402714153371797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree87
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e96e4f4182f0d70800000000000000
+      internalID: 9011465449864863233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree88
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77be80ad563d2c0800000000000000
+      internalID: -4408067623138658381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree89
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1495
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b4a116680adcde0800000000000000
+      internalID: -1311215417479771365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fc3cbe62614d710800000000000000
+      internalID: 1717021714355048312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree91
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfbef1fdb0a9d940800000000000000
+      internalID: 5321461172384219092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree92
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606793ca9af22b240800000000000000
+      internalID: 4805956158143165958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree93
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7cd5600d5209e30800000000000000
+      internalID: 4508144802388101047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree94
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c26c56041407bd40800000000000000
+      internalID: 5599949145711076033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree95
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53ccca103cb3ad80800000000000000
+      internalID: -8240535978363796644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree96
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b835dcf472302c2f0800000000000000
+      internalID: -954196703671659637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree97
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2500ce2e82466b0800000000000000
+      internalID: -5304069506048437522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree98
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066d599543628f2e0800000000000000
+      internalID: -2091880020630448544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree99
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1206
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c555a3557702a0f0800000000000000
+      internalID: -1107314357883808319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eec55e9acfb0d0b0800000000000000
+      internalID: -5705849850917695772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree101
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f0b5cf57bc7cff0800000000000000
+      internalID: -15820366067069065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree102
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b29ade80925cf00800000000000000
+      internalID: 1136359599304682284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree103
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8784118d7c21b6320800000000000000
+      internalID: 2552154263368321144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree104
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0242dbb59516f640800000000000000
+      internalID: 5113298159771206157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree105
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd99e4e26bcec4250800000000000000
+      internalID: 5930375076545206748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree106
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de2c32efeab349e0800000000000000
+      internalID: -1638260299977183534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree107
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f21d4ecb7b246180800000000000000
+      internalID: -9123119134403652872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree108
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d391ddb704012f3c0800000000000000
+      internalID: -4327378422807586499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree109
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 917
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1f762729c4ce0e0800000000000000
+      internalID: -2239330722841628188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae4ebca84e977c40800000000000000
+      internalID: 5510046704084078242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree111
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3496036e3c2aed5a0800000000000000
+      internalID: -6494574650357421757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree112
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e56186df2940b00800000000000000
+      internalID: 793921051394727548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree113
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5dc8346482f7d30800000000000000
+      internalID: 4431304840601982375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree114
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c1547be7fcea420800000000000000
+      internalID: 2643278174460648503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree115
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e6b1b17dee28870800000000000000
+      internalID: 8683765639163899511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree116
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b5dd4430341ea00800000000000000
+      internalID: 783981491458497383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree117
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4b4f861db9a7ca0800000000000000
+      internalID: -6018326628315908924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree118
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dd4d117af15d3c0800000000000000
+      internalID: -4335524263855071915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_90Degree119
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 628
+        width: 390
+        height: 289
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.183391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a4dda07c87c4800800000000000000
+      internalID: 597985646809533065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3b007ddaf5ccd0640b7900d3f0927043
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

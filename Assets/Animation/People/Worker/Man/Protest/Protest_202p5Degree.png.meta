@@ -1,0 +1,2036 @@
+fileFormatVersion: 2
+guid: 29e7ab4e3aa88364d81f157501b912c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5569170748806372944
+    second: Protest_202p5Degree0
+  - first:
+      213: -548014726397047179
+    second: Protest_202p5Degree1
+  - first:
+      213: -183884487421622611
+    second: Protest_202p5Degree2
+  - first:
+      213: -9037705002594032135
+    second: Protest_202p5Degree3
+  - first:
+      213: 4909930437133659365
+    second: Protest_202p5Degree4
+  - first:
+      213: 6056238488269568839
+    second: Protest_202p5Degree5
+  - first:
+      213: 4322205748446362844
+    second: Protest_202p5Degree6
+  - first:
+      213: -5876532195645720288
+    second: Protest_202p5Degree7
+  - first:
+      213: -6585265251812439085
+    second: Protest_202p5Degree8
+  - first:
+      213: -7676983452204324835
+    second: Protest_202p5Degree9
+  - first:
+      213: 7078771889748322030
+    second: Protest_202p5Degree10
+  - first:
+      213: -3609494397404712068
+    second: Protest_202p5Degree11
+  - first:
+      213: -2268540673928983660
+    second: Protest_202p5Degree12
+  - first:
+      213: 4675769899885737718
+    second: Protest_202p5Degree13
+  - first:
+      213: 6201143113637535781
+    second: Protest_202p5Degree14
+  - first:
+      213: -8410002400255782124
+    second: Protest_202p5Degree15
+  - first:
+      213: 7442131052511366520
+    second: Protest_202p5Degree16
+  - first:
+      213: 7825329378005378687
+    second: Protest_202p5Degree17
+  - first:
+      213: -3467052637056234395
+    second: Protest_202p5Degree18
+  - first:
+      213: -7724218290944965662
+    second: Protest_202p5Degree19
+  - first:
+      213: -42222958917786048
+    second: Protest_202p5Degree20
+  - first:
+      213: 8005014513177024194
+    second: Protest_202p5Degree21
+  - first:
+      213: -5326873060052193731
+    second: Protest_202p5Degree22
+  - first:
+      213: -2944609094319449103
+    second: Protest_202p5Degree23
+  - first:
+      213: -6935185855213354806
+    second: Protest_202p5Degree24
+  - first:
+      213: -6184200668520869768
+    second: Protest_202p5Degree25
+  - first:
+      213: -3669701966827600141
+    second: Protest_202p5Degree26
+  - first:
+      213: 8804792389829964537
+    second: Protest_202p5Degree27
+  - first:
+      213: 4311362144815042353
+    second: Protest_202p5Degree28
+  - first:
+      213: 3314562886024320711
+    second: Protest_202p5Degree29
+  - first:
+      213: 7544055505062144768
+    second: Protest_202p5Degree30
+  - first:
+      213: 5528090288233983076
+    second: Protest_202p5Degree31
+  - first:
+      213: 5913176693914079207
+    second: Protest_202p5Degree32
+  - first:
+      213: -317973132625971162
+    second: Protest_202p5Degree33
+  - first:
+      213: -639883491560879483
+    second: Protest_202p5Degree34
+  - first:
+      213: -8813769829890198279
+    second: Protest_202p5Degree35
+  - first:
+      213: -7493659268159159261
+    second: Protest_202p5Degree36
+  - first:
+      213: -631315235790380157
+    second: Protest_202p5Degree37
+  - first:
+      213: 2570323728285054644
+    second: Protest_202p5Degree38
+  - first:
+      213: 397819695447464894
+    second: Protest_202p5Degree39
+  - first:
+      213: -2095135540103236881
+    second: Protest_202p5Degree40
+  - first:
+      213: 3859116988803438178
+    second: Protest_202p5Degree41
+  - first:
+      213: -3140499115499612407
+    second: Protest_202p5Degree42
+  - first:
+      213: -1199417138080660566
+    second: Protest_202p5Degree43
+  - first:
+      213: 8158991707058190013
+    second: Protest_202p5Degree44
+  - first:
+      213: 7014065066911413487
+    second: Protest_202p5Degree45
+  - first:
+      213: -2355231800049058948
+    second: Protest_202p5Degree46
+  - first:
+      213: 5640106868648419951
+    second: Protest_202p5Degree47
+  - first:
+      213: -5918121069588188586
+    second: Protest_202p5Degree48
+  - first:
+      213: 3492070321896143160
+    second: Protest_202p5Degree49
+  - first:
+      213: 2568024625479733770
+    second: Protest_202p5Degree50
+  - first:
+      213: 8906600150690107345
+    second: Protest_202p5Degree51
+  - first:
+      213: 3560114426541446098
+    second: Protest_202p5Degree52
+  - first:
+      213: -3439905976364149574
+    second: Protest_202p5Degree53
+  - first:
+      213: 3840095664870045037
+    second: Protest_202p5Degree54
+  - first:
+      213: -1335447930045245313
+    second: Protest_202p5Degree55
+  - first:
+      213: -7491986341765705048
+    second: Protest_202p5Degree56
+  - first:
+      213: -1467527239219462771
+    second: Protest_202p5Degree57
+  - first:
+      213: -2377609668513901342
+    second: Protest_202p5Degree58
+  - first:
+      213: 6287418886784149900
+    second: Protest_202p5Degree59
+  - first:
+      213: 8464870376487749639
+    second: Protest_202p5Degree60
+  - first:
+      213: 9112031461778035185
+    second: Protest_202p5Degree61
+  - first:
+      213: 353945376651065520
+    second: Protest_202p5Degree62
+  - first:
+      213: -2616139705837986004
+    second: Protest_202p5Degree63
+  - first:
+      213: 746213189488809376
+    second: Protest_202p5Degree64
+  - first:
+      213: 2139889546623232032
+    second: Protest_202p5Degree65
+  - first:
+      213: -2186054665574964963
+    second: Protest_202p5Degree66
+  - first:
+      213: -7494906699202365336
+    second: Protest_202p5Degree67
+  - first:
+      213: 7941333027148858914
+    second: Protest_202p5Degree68
+  - first:
+      213: -948404718930870807
+    second: Protest_202p5Degree69
+  - first:
+      213: -8769116246515884123
+    second: Protest_202p5Degree70
+  - first:
+      213: 3840152297841210227
+    second: Protest_202p5Degree71
+  - first:
+      213: 3055035940964122129
+    second: Protest_202p5Degree72
+  - first:
+      213: -1586434232556123867
+    second: Protest_202p5Degree73
+  - first:
+      213: 2105677031359007690
+    second: Protest_202p5Degree74
+  - first:
+      213: 6252919155043997072
+    second: Protest_202p5Degree75
+  - first:
+      213: -5717297611884402771
+    second: Protest_202p5Degree76
+  - first:
+      213: -8252810397086661723
+    second: Protest_202p5Degree77
+  - first:
+      213: 4322818162942960325
+    second: Protest_202p5Degree78
+  - first:
+      213: 398878017847160362
+    second: Protest_202p5Degree79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Protest_202p5Degree0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e99101a4ba94d40800000000000000
+      internalID: 5569170748806372944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ecb65828f0568f0800000000000000
+      internalID: -548014726397047179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6878f6806b27df0800000000000000
+      internalID: -183884487421622611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5ac971f2f939280800000000000000
+      internalID: -9037705002594032135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecea39f7b3932440800000000000000
+      internalID: 4909930437133659365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree5
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b3b5851d41c0450800000000000000
+      internalID: 6056238488269568839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree6
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcfb4a6a3f8bfb30800000000000000
+      internalID: 4322205748446362844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree7
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029f36f6a1d527ea0800000000000000
+      internalID: -5876532195645720288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree8
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db0ff9c4207c94a0800000000000000
+      internalID: -6585265251812439085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree9
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d182fc08930e57590800000000000000
+      internalID: -7676983452204324835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree10
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6287e5789dc3260800000000000000
+      internalID: 7078771889748322030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree11
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73fdef28ff78edc0800000000000000
+      internalID: -3609494397404712068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree12
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b00fbb6468480e0800000000000000
+      internalID: -2268540673928983660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree13
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6372e53fba3e040800000000000000
+      internalID: 4675769899885737718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree14
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520a9b98ec2ee0650800000000000000
+      internalID: 6201143113637535781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree15
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4135294006ba94b80800000000000000
+      internalID: -8410002400255782124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree16
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1736
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d08dc13c2c74760800000000000000
+      internalID: 7442131052511366520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f766072eb97299c60800000000000000
+      internalID: 7825329378005378687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c8eaeeefd82efc0800000000000000
+      internalID: -3467052637056234395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e386a893601ec490800000000000000
+      internalID: -7724218290944965662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree20
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046e65c417ef96ff0800000000000000
+      internalID: -42222958917786048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree21
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c653cf8946871f60800000000000000
+      internalID: 8005014513177024194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree22
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eadf3cc252316b0800000000000000
+      internalID: -5326873060052193731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree23
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb54b241a5a227d0800000000000000
+      internalID: -2944609094319449103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree24
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0c1b8753541cf90800000000000000
+      internalID: -6935185855213354806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree25
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870941dd14e4d2aa0800000000000000
+      internalID: -6184200668520869768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree26
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f640bb0189921dc0800000000000000
+      internalID: -3669701966827600141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree27
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2b0ec5708e03a70800000000000000
+      internalID: 8804792389829964537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree28
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f44c3370905db30800000000000000
+      internalID: 4311362144815042353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree29
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c65c2f2261bffd20800000000000000
+      internalID: 3314562886024320711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree30
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b2f01038ed1b860800000000000000
+      internalID: 7544055505062144768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree31
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c297cf3d8b7bc40800000000000000
+      internalID: 5528090288233983076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree32
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef0edeafd2df0250800000000000000
+      internalID: 5913176693914079207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree33
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1424
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628f5bdde15569bf0800000000000000
+      internalID: -317973132625971162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a80ebca5dae17f0800000000000000
+      internalID: -639883491560879483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4f65d79033fa580800000000000000
+      internalID: -8813769829890198279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3244f85499c210890800000000000000
+      internalID: -7493659268159159261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree37
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3832c6d432e1d37f0800000000000000
+      internalID: -631315235790380157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree38
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6303e00df9ba320800000000000000
+      internalID: 2570323728285054644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree39
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbdccfb7e6558500800000000000000
+      internalID: 397819695447464894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree40
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2b9d7a3559ce2e0800000000000000
+      internalID: -2095135540103236881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree41
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266dd4074765e8530800000000000000
+      internalID: 3859116988803438178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree42
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907973b81b4ba64d0800000000000000
+      internalID: -3140499115499612407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree43
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3cf2bb770da5fe0800000000000000
+      internalID: -1199417138080660566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree44
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6bf88babf8a3170800000000000000
+      internalID: 8158991707058190013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree45
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe43bb82407f65160800000000000000
+      internalID: 7014065066911413487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree46
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b3f5a0829805fd0800000000000000
+      internalID: -2355231800049058948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree47
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62a701805fa54e40800000000000000
+      internalID: 5640106868648419951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree48
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652f0752e3c9edda0800000000000000
+      internalID: -5918121069588188586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree49
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839bd4bb473567030800000000000000
+      internalID: 3492070321896143160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree50
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1112
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02dc287ac473a320800000000000000
+      internalID: 2568024625479733770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df035ad5a99a9b70800000000000000
+      internalID: 8906600150690107345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d31fb96531186130800000000000000
+      internalID: 3560114426541446098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree53
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4521a6dbff240d0800000000000000
+      internalID: -3439905976364149574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree54
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65b81859a2ca4530800000000000000
+      internalID: 3840095664870045037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree55
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f785f91ee29877de0800000000000000
+      internalID: -1335447930045245313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree56
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a21afccd1e170890800000000000000
+      internalID: -7491986341765705048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree57
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d3d1050cb42abe0800000000000000
+      internalID: -1467527239219462771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree58
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4d1b58a98010fd0800000000000000
+      internalID: -2377609668513901342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree59
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89e9d45a26614750800000000000000
+      internalID: 6287418886784149900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree60
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708874432c2497570800000000000000
+      internalID: 8464870376487749639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree61
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1967d3650747e70800000000000000
+      internalID: 9112031461778035185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree62
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8bd2dd17779e400800000000000000
+      internalID: 353945376651065520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree63
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f5bb66cca91bbd0800000000000000
+      internalID: -2616139705837986004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree64
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5113631f41b5a00800000000000000
+      internalID: 746213189488809376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree65
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028ac0d743a62bd10800000000000000
+      internalID: 2139889546623232032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree66
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11a1d62dd299a1e0800000000000000
+      internalID: -2186054665574964963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree67
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 800
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868f859111ebcf790800000000000000
+      internalID: -7494906699202365336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226094e2058453e60800000000000000
+      internalID: 7941333027148858914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree69
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed32d8dee696d2f0800000000000000
+      internalID: -948404718930870807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree70
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af505c0c37dd4680800000000000000
+      internalID: -8769116246515884123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree71
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373b93c3b26fa4530800000000000000
+      internalID: 3840152297841210227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree72
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eb735800ba56a20800000000000000
+      internalID: 3055035940964122129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree73
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52909f4887adbf9e0800000000000000
+      internalID: -1586434232556123867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree74
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb4ad98a1ed83d10800000000000000
+      internalID: 2105677031359007690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree75
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09512a597d4d6c650800000000000000
+      internalID: 6252919155043997072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree76
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7e0701d1418a0b0800000000000000
+      internalID: -5717297611884402771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree77
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3cffa4ba0287d80800000000000000
+      internalID: -8252810397086661723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree78
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c262d6473cbdfb30800000000000000
+      internalID: 4322818162942960325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Protest_202p5Degree79
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 488
+        width: 228
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.12179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eed72a179198500800000000000000
+      internalID: 398878017847160362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2996 @@
+fileFormatVersion: 2
+guid: aa67b79c604a55941bd226c891b635f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8493107125456293142
+    second: ThrowRock_45Degree0
+  - first:
+      213: 6820374833430681014
+    second: ThrowRock_45Degree1
+  - first:
+      213: -6128528472897823833
+    second: ThrowRock_45Degree2
+  - first:
+      213: 8294983223446527118
+    second: ThrowRock_45Degree3
+  - first:
+      213: -1982422119381177224
+    second: ThrowRock_45Degree4
+  - first:
+      213: 4530758150539300743
+    second: ThrowRock_45Degree5
+  - first:
+      213: 7698382386405273862
+    second: ThrowRock_45Degree6
+  - first:
+      213: 7849071362083429407
+    second: ThrowRock_45Degree7
+  - first:
+      213: 3127389482735256140
+    second: ThrowRock_45Degree8
+  - first:
+      213: -6812941920632451231
+    second: ThrowRock_45Degree9
+  - first:
+      213: -5934854471016998140
+    second: ThrowRock_45Degree10
+  - first:
+      213: 3266093918262286586
+    second: ThrowRock_45Degree11
+  - first:
+      213: 872341964621464034
+    second: ThrowRock_45Degree12
+  - first:
+      213: 4972361267566552684
+    second: ThrowRock_45Degree13
+  - first:
+      213: 7632133901142992551
+    second: ThrowRock_45Degree14
+  - first:
+      213: 4314747552903363330
+    second: ThrowRock_45Degree15
+  - first:
+      213: 2370924784157212468
+    second: ThrowRock_45Degree16
+  - first:
+      213: -5491996568193814478
+    second: ThrowRock_45Degree17
+  - first:
+      213: -6333332907108962727
+    second: ThrowRock_45Degree18
+  - first:
+      213: -7692794116700628725
+    second: ThrowRock_45Degree19
+  - first:
+      213: -1844174771034624960
+    second: ThrowRock_45Degree20
+  - first:
+      213: 3994509923441765059
+    second: ThrowRock_45Degree21
+  - first:
+      213: 847232011312276437
+    second: ThrowRock_45Degree22
+  - first:
+      213: 3350850287610525819
+    second: ThrowRock_45Degree23
+  - first:
+      213: -7843432738983226565
+    second: ThrowRock_45Degree24
+  - first:
+      213: 9061639492023411755
+    second: ThrowRock_45Degree25
+  - first:
+      213: 8351303094839789629
+    second: ThrowRock_45Degree26
+  - first:
+      213: -8246788463952747638
+    second: ThrowRock_45Degree27
+  - first:
+      213: 4007088506370951134
+    second: ThrowRock_45Degree28
+  - first:
+      213: -8355701845781211566
+    second: ThrowRock_45Degree29
+  - first:
+      213: 2279626876832031856
+    second: ThrowRock_45Degree30
+  - first:
+      213: -7795151732790790797
+    second: ThrowRock_45Degree31
+  - first:
+      213: 882480920508936682
+    second: ThrowRock_45Degree32
+  - first:
+      213: 6615550395271261526
+    second: ThrowRock_45Degree33
+  - first:
+      213: -3198486497707936573
+    second: ThrowRock_45Degree34
+  - first:
+      213: 5234306820570950683
+    second: ThrowRock_45Degree35
+  - first:
+      213: -4498541658392772218
+    second: ThrowRock_45Degree36
+  - first:
+      213: 3072314659283210558
+    second: ThrowRock_45Degree37
+  - first:
+      213: 4671809394056403106
+    second: ThrowRock_45Degree38
+  - first:
+      213: 8406453854672438555
+    second: ThrowRock_45Degree39
+  - first:
+      213: -682511758473551801
+    second: ThrowRock_45Degree40
+  - first:
+      213: -566288955028312000
+    second: ThrowRock_45Degree41
+  - first:
+      213: 7980332181389764926
+    second: ThrowRock_45Degree42
+  - first:
+      213: -1677798898097557055
+    second: ThrowRock_45Degree43
+  - first:
+      213: -3774642011480944463
+    second: ThrowRock_45Degree44
+  - first:
+      213: -9169390633448457540
+    second: ThrowRock_45Degree45
+  - first:
+      213: 5836095286755989471
+    second: ThrowRock_45Degree46
+  - first:
+      213: 8809940629854882145
+    second: ThrowRock_45Degree47
+  - first:
+      213: 960833985183827912
+    second: ThrowRock_45Degree48
+  - first:
+      213: -3892535497909069997
+    second: ThrowRock_45Degree49
+  - first:
+      213: 5083535962956900552
+    second: ThrowRock_45Degree50
+  - first:
+      213: -5548357896600200542
+    second: ThrowRock_45Degree51
+  - first:
+      213: -4191248696604143506
+    second: ThrowRock_45Degree52
+  - first:
+      213: -6148504313581564924
+    second: ThrowRock_45Degree53
+  - first:
+      213: 5965604016908373601
+    second: ThrowRock_45Degree54
+  - first:
+      213: -3865805779744256907
+    second: ThrowRock_45Degree55
+  - first:
+      213: 2200364187489348585
+    second: ThrowRock_45Degree56
+  - first:
+      213: 1499017413613135934
+    second: ThrowRock_45Degree57
+  - first:
+      213: 2654847700045084588
+    second: ThrowRock_45Degree58
+  - first:
+      213: -7958004091409566181
+    second: ThrowRock_45Degree59
+  - first:
+      213: 3807425866891097408
+    second: ThrowRock_45Degree60
+  - first:
+      213: 8919867654467493091
+    second: ThrowRock_45Degree61
+  - first:
+      213: 110244742676877359
+    second: ThrowRock_45Degree62
+  - first:
+      213: 8358614450519913555
+    second: ThrowRock_45Degree63
+  - first:
+      213: -3842203976426635546
+    second: ThrowRock_45Degree64
+  - first:
+      213: 3755881665377744863
+    second: ThrowRock_45Degree65
+  - first:
+      213: 5187712236558504131
+    second: ThrowRock_45Degree66
+  - first:
+      213: 2642457808763378429
+    second: ThrowRock_45Degree67
+  - first:
+      213: 1823733387498829811
+    second: ThrowRock_45Degree68
+  - first:
+      213: 1919451281117169550
+    second: ThrowRock_45Degree69
+  - first:
+      213: 2007776304313492859
+    second: ThrowRock_45Degree70
+  - first:
+      213: 6408573829150220436
+    second: ThrowRock_45Degree71
+  - first:
+      213: -7094235745615484990
+    second: ThrowRock_45Degree72
+  - first:
+      213: -20962079933644331
+    second: ThrowRock_45Degree73
+  - first:
+      213: 6099079324343961272
+    second: ThrowRock_45Degree74
+  - first:
+      213: 6925577669877784762
+    second: ThrowRock_45Degree75
+  - first:
+      213: -57157729010884489
+    second: ThrowRock_45Degree76
+  - first:
+      213: 4252235271147458899
+    second: ThrowRock_45Degree77
+  - first:
+      213: -1808834170124757012
+    second: ThrowRock_45Degree78
+  - first:
+      213: 8770254389084462267
+    second: ThrowRock_45Degree79
+  - first:
+      213: 6124898453065170068
+    second: ThrowRock_45Degree80
+  - first:
+      213: -1571212495056784770
+    second: ThrowRock_45Degree81
+  - first:
+      213: 7983195166234254086
+    second: ThrowRock_45Degree82
+  - first:
+      213: -8681588596885591625
+    second: ThrowRock_45Degree83
+  - first:
+      213: 2739302559523476387
+    second: ThrowRock_45Degree84
+  - first:
+      213: 4305312056866194501
+    second: ThrowRock_45Degree85
+  - first:
+      213: -7136490632314506255
+    second: ThrowRock_45Degree86
+  - first:
+      213: -1514304983669809179
+    second: ThrowRock_45Degree87
+  - first:
+      213: 2738189683204262350
+    second: ThrowRock_45Degree88
+  - first:
+      213: 8634378571406368791
+    second: ThrowRock_45Degree89
+  - first:
+      213: 6983058700510296294
+    second: ThrowRock_45Degree90
+  - first:
+      213: -526643950932307014
+    second: ThrowRock_45Degree91
+  - first:
+      213: -22822754754987830
+    second: ThrowRock_45Degree92
+  - first:
+      213: 2688201947706461382
+    second: ThrowRock_45Degree93
+  - first:
+      213: -6171474530687223856
+    second: ThrowRock_45Degree94
+  - first:
+      213: -874742914595798243
+    second: ThrowRock_45Degree95
+  - first:
+      213: -3632048285163589574
+    second: ThrowRock_45Degree96
+  - first:
+      213: -6856762852760898520
+    second: ThrowRock_45Degree97
+  - first:
+      213: 3367092771661663258
+    second: ThrowRock_45Degree98
+  - first:
+      213: -6332570851567787483
+    second: ThrowRock_45Degree99
+  - first:
+      213: 2574738264770448092
+    second: ThrowRock_45Degree100
+  - first:
+      213: -1328176719213462203
+    second: ThrowRock_45Degree101
+  - first:
+      213: 1477106875517196735
+    second: ThrowRock_45Degree102
+  - first:
+      213: -1513101429300642890
+    second: ThrowRock_45Degree103
+  - first:
+      213: -9144051211299494015
+    second: ThrowRock_45Degree104
+  - first:
+      213: -5421732475594129317
+    second: ThrowRock_45Degree105
+  - first:
+      213: -4719607850529941533
+    second: ThrowRock_45Degree106
+  - first:
+      213: 2240268478547828972
+    second: ThrowRock_45Degree107
+  - first:
+      213: -714108374523631259
+    second: ThrowRock_45Degree108
+  - first:
+      213: 8798866453683348524
+    second: ThrowRock_45Degree109
+  - first:
+      213: -5849336886931455417
+    second: ThrowRock_45Degree110
+  - first:
+      213: 2398180934201327726
+    second: ThrowRock_45Degree111
+  - first:
+      213: -8030443723460495187
+    second: ThrowRock_45Degree112
+  - first:
+      213: -5486954278131386305
+    second: ThrowRock_45Degree113
+  - first:
+      213: 4069626617215990580
+    second: ThrowRock_45Degree114
+  - first:
+      213: 8154141662826618092
+    second: ThrowRock_45Degree115
+  - first:
+      213: -2576671486411220076
+    second: ThrowRock_45Degree116
+  - first:
+      213: -3961044376522279635
+    second: ThrowRock_45Degree117
+  - first:
+      213: 6788252366802570911
+    second: ThrowRock_45Degree118
+  - first:
+      213: -5504110546736857543
+    second: ThrowRock_45Degree119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThrowRock_45Degree0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d4924aee39dd570800000000000000
+      internalID: 8493107125456293142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b556ad66c6d6ae50800000000000000
+      internalID: 6820374833430681014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abde0103d713faa0800000000000000
+      internalID: -6128528472897823833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cda530b43bd1370800000000000000
+      internalID: 8294983223446527118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c6863f5950d74e0800000000000000
+      internalID: -1982422119381177224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree5
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fc91e688c70ee30800000000000000
+      internalID: 4530758150539300743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree6
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6017fce1ef526da60800000000000000
+      internalID: 7698382386405273862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree7
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c9ca151d08dec60800000000000000
+      internalID: 7849071362083429407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree8
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c424ab83a28b66b20800000000000000
+      internalID: 3127389482735256140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree9
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fc5517b619371a0800000000000000
+      internalID: -6812941920632451231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree10
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b94658d4923ada0800000000000000
+      internalID: -5934854471016998140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree11
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3811
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af856193d1f735d20800000000000000
+      internalID: 3266093918262286586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1cdeb156e2b1c00800000000000000
+      internalID: 872341964621464034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6627386a30610540800000000000000
+      internalID: 4972361267566552684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a628d7a859cae960800000000000000
+      internalID: 7632133901142992551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b7a42f90011eb30800000000000000
+      internalID: 4314747552903363330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree16
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f3cdc878737e020800000000000000
+      internalID: 2370924784157212468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230b425183288c3b0800000000000000
+      internalID: -5491996568193814478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree18
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e6a73c64b7b18a0800000000000000
+      internalID: -6333332907108962727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree19
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0918df4284bd3590800000000000000
+      internalID: -7692794116700628725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree20
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c6ebc01dc2866e0800000000000000
+      internalID: -1844174771034624960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree21
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cae48e8c995f6730800000000000000
+      internalID: 3994509923441765059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree22
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3ab948609f1cb00800000000000000
+      internalID: 847232011312276437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree23
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3526
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b787a80459c908e20800000000000000
+      internalID: 3350850287610525819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b335c3dea77862390800000000000000
+      internalID: -7843432738983226565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24e4bc7b1961cd70800000000000000
+      internalID: 9061639492023411755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38cb8beae9c5e370800000000000000
+      internalID: 8351303094839789629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83ae4cd5958d8d80800000000000000
+      internalID: -8246788463952747638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree28
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed78acd14c90c9730800000000000000
+      internalID: 4007088506370951134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256922111759a0c80800000000000000
+      internalID: -8355701845781211566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree30
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074a106019cd2af10800000000000000
+      internalID: 2279626876832031856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree31
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375fbbcacce02d390800000000000000
+      internalID: -7795151732790790797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree32
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1befbb8b33f3c00800000000000000
+      internalID: 882480920508936682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree33
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65da6d7a8082fcb50800000000000000
+      internalID: 6615550395271261526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree34
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c43c350a71bc93d0800000000000000
+      internalID: -3198486497707936573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree35
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3241
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c298d125ef3a840800000000000000
+      internalID: 5234306820570950683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681c33c2238f191c0800000000000000
+      internalID: -4498541658392772218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e311dc0a7ed03aa20800000000000000
+      internalID: 3072314659283210558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8901f34e995d040800000000000000
+      internalID: 4671809394056403106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree39
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15c674dd39b9a470800000000000000
+      internalID: 8406453854672438555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree40
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7402829fb2b3786f0800000000000000
+      internalID: -682511758473551801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree41
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0407f4b12332428f0800000000000000
+      internalID: -566288955028312000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree42
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39ea5d56d5dfbe60800000000000000
+      internalID: 7980332181389764926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree43
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c17a52aac247b8e0800000000000000
+      internalID: -1677798898097557055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree44
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b09967e617cd9bc0800000000000000
+      internalID: -3774642011480944463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree45
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbab286ecc7cfb080800000000000000
+      internalID: -9169390633448457540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree46
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd71c6a0eb9fdf050800000000000000
+      internalID: 5836095286755989471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree47
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2956
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16908c66352334a70800000000000000
+      internalID: 8809940629854882145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c741073b61955d00800000000000000
+      internalID: 960833985183827912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3571883969feaf9c0800000000000000
+      internalID: -3892535497909069997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c828fa46095c8640800000000000000
+      internalID: 5083535962956900552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree51
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa5966b3e54003b0800000000000000
+      internalID: -5548357896600200542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree52
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6057914481b5d5c0800000000000000
+      internalID: -4191248696604143506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree53
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c830927ef1caaa0800000000000000
+      internalID: -6148504313581564924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree54
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e877a0f351ac250800000000000000
+      internalID: 5965604016908373601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree55
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c01bf0026e95ac0800000000000000
+      internalID: -3865805779744256907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree56
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb2bcb0293498e10800000000000000
+      internalID: 2200364187489348585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree57
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38298245649dc410800000000000000
+      internalID: 1499017413613135934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree58
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca733fdcae9e7d420800000000000000
+      internalID: 2654847700045084588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree59
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2671
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b167d62317d7f8190800000000000000
+      internalID: -7958004091409566181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0457da047a1b6d430800000000000000
+      internalID: 3807425866891097408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec180c4f5cb9cb70800000000000000
+      internalID: 8919867654467493091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f201c95620ba78100800000000000000
+      internalID: 110244742676877359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree63
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354bfa19e83cff370800000000000000
+      internalID: 8358614450519913555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree64
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee3f7e17dfbdaac0800000000000000
+      internalID: -3842203976426635546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree65
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd73e33a9729f1430800000000000000
+      internalID: 3755881665377744863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree66
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c054012bc47ef740800000000000000
+      internalID: 5187712236558504131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree67
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5c417065eba420800000000000000
+      internalID: 2642457808763378429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree68
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f733e67ad33f4910800000000000000
+      internalID: 1823733387498829811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree69
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8748ae35c243aa10800000000000000
+      internalID: 1919451281117169550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree70
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b756d0f39ed0ddb10800000000000000
+      internalID: 2007776304313492859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree71
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2386
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4902d5b81f3dfe850800000000000000
+      internalID: 6408573829150220436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7e5bd1d263c8d90800000000000000
+      internalID: -7094235745615484990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree73
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d14dcf691785bff0800000000000000
+      internalID: -20962079933644331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree74
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b68378c45844a450800000000000000
+      internalID: 6099079324343961272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree75
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0617d82389c1060800000000000000
+      internalID: 6925577669877784762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree76
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770632a295fe43ff0800000000000000
+      internalID: -57157729010884489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree77
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35191262379f20b30800000000000000
+      internalID: 4252235271147458899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree78
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce71028e7eab5e6e0800000000000000
+      internalID: -1808834170124757012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree79
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc903b66e336b970800000000000000
+      internalID: 8770254389084462267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree80
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cf94421b2000550800000000000000
+      internalID: 6124898453065170068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree81
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e723c757f8ee13ae0800000000000000
+      internalID: -1571212495056784770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree82
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b1208f4b10ace60800000000000000
+      internalID: 7983195166234254086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree83
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2101
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b96d8c0b2dc48780800000000000000
+      internalID: -8681588596885591625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a317b81a25f30620800000000000000
+      internalID: 2739302559523476387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54447b4518a8fbb30800000000000000
+      internalID: 4305312056866194501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree86
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3bdf5a49716fc90800000000000000
+      internalID: -7136490632314506255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree87
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efd1c6f3ab1cfae0800000000000000
+      internalID: -1514304983669809179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree88
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec987036201000620800000000000000
+      internalID: 2738189683204262350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree89
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710ebe4509973d770800000000000000
+      internalID: 8634378571406368791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree90
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8fd99e3eec8e060800000000000000
+      internalID: 6983058700510296294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree91
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3529ded1cf0b8f0800000000000000
+      internalID: -526643950932307014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree92
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8780253daeeaff0800000000000000
+      internalID: -22822754754987830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree93
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc8e81cd696e4520800000000000000
+      internalID: 2688201947706461382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree94
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7740abc948a5aa0800000000000000
+      internalID: -6171474530687223856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree95
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1816
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d134ab924f94cd3f0800000000000000
+      internalID: -874742914595798243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30f1cbf35f589dc0800000000000000
+      internalID: -3632048285163589574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree97
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824b71c9382e7d0a0800000000000000
+      internalID: -6856762852760898520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree98
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ccda449015abe20800000000000000
+      internalID: 3367092771661663258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree99
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5222f45ac503e18a0800000000000000
+      internalID: -6332570851567787483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree100
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda8f3d6fce4bb320800000000000000
+      internalID: 2574738264770448092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree101
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d76549f4e519de0800000000000000
+      internalID: -1328176719213462203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree102
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb95d7290ecbf7410800000000000000
+      internalID: 1477106875517196735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree103
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb366d4442600be0800000000000000
+      internalID: -1513101429300642890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree104
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187638ededdc91180800000000000000
+      internalID: -9144051211299494015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree105
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50430df90322c4b0800000000000000
+      internalID: -5421732475594129317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree106
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7940e5aa5908eb0800000000000000
+      internalID: -4719607850529941533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree107
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1531
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce02951df48071f10800000000000000
+      internalID: 2240268478547828972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5692365873af616f0800000000000000
+      internalID: -714108374523631259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree109
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24a5e5db6adb1a70800000000000000
+      internalID: 8798866453683348524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7428cdaa71bf2dea0800000000000000
+      internalID: -5849336886931455417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree111
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e604f228adc084120800000000000000
+      internalID: 2398180934201327726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree112
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da83f5a0bf12e8090800000000000000
+      internalID: -8030443723460495187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree113
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f383b29b72c6ad3b0800000000000000
+      internalID: -5486954278131386305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree114
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b32a7b8d73a7830800000000000000
+      internalID: 4069626617215990580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree115
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec5efcc3a4592170800000000000000
+      internalID: 8154141662826618092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree116
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bd4955fe2dd3cd0800000000000000
+      internalID: -2576671486411220076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree117
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25b4d5402b8709c0800000000000000
+      internalID: -3961044376522279635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree118
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec8f8df87b43e50800000000000000
+      internalID: 6788252366802570911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowRock_45Degree119
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1246
+        width: 336
+        height: 285
+      alignment: 9
+      pivot: {x: 0.49702382, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eb449ae987d93b0800000000000000
+      internalID: -5504110546736857543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
